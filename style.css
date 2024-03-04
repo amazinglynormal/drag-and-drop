@@ -12,6 +12,7 @@ h1 {
 .drop-zone {
   width: 200px;
   padding: 10px;
+  min-height: 50px;
   height: fit-content;
   display: flex;
   flex-direction: column;
